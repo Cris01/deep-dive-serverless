@@ -16,7 +16,7 @@ class HelloWorld(AbstractLambda):
         # todo implement business logic
         return {
             "statusCode": 200,
-            "message": "Hello from lambda"
+            "message": "Hello from Pambda"
         }
     
 
